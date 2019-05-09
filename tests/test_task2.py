@@ -1,4 +1,4 @@
-import task2 as fibonacci
+from src.euler import task2 as fibonacci
 
 
 def test_fibo():

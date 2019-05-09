@@ -1,4 +1,4 @@
-import task1 as multiply
+from src.euler import task1 as multiply
 
 
 def test_multiply():

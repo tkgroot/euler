@@ -1,7 +1,7 @@
 # Test for Task 4
 # @author tkgroot
 #
-import task4 as pd
+from src.euler import task4 as pd
 
 
 def test_palindrome():
